@@ -1,0 +1,15 @@
+/Users/a2/WebstormProjects/13Project/bin/Debug/net6.0/13Project
+/Users/a2/WebstormProjects/13Project/bin/Debug/net6.0/13Project.deps.json
+/Users/a2/WebstormProjects/13Project/bin/Debug/net6.0/13Project.runtimeconfig.json
+/Users/a2/WebstormProjects/13Project/bin/Debug/net6.0/13Project.dll
+/Users/a2/WebstormProjects/13Project/bin/Debug/net6.0/13Project.pdb
+/Users/a2/WebstormProjects/13Project/obj/Debug/net6.0/13Project.csproj.AssemblyReference.cache
+/Users/a2/WebstormProjects/13Project/obj/Debug/net6.0/13Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a2/WebstormProjects/13Project/obj/Debug/net6.0/13Project.AssemblyInfoInputs.cache
+/Users/a2/WebstormProjects/13Project/obj/Debug/net6.0/13Project.AssemblyInfo.cs
+/Users/a2/WebstormProjects/13Project/obj/Debug/net6.0/13Project.csproj.CoreCompileInputs.cache
+/Users/a2/WebstormProjects/13Project/obj/Debug/net6.0/13Project.dll
+/Users/a2/WebstormProjects/13Project/obj/Debug/net6.0/refint/13Project.dll
+/Users/a2/WebstormProjects/13Project/obj/Debug/net6.0/13Project.pdb
+/Users/a2/WebstormProjects/13Project/obj/Debug/net6.0/13Project.genruntimeconfig.cache
+/Users/a2/WebstormProjects/13Project/obj/Debug/net6.0/ref/13Project.dll
